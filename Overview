@@ -1,7 +1,0 @@
-Project Overview
-
-This project implements an AI-driven monitoring system for Generative AI applications using a Knowledge Graph, semantic similarity, rule-based validation, confidence scoring, and human feedback.
-
-The system is designed to identify potentially unsupported or contradictory AI-generated responses by comparing them with information stored in a Knowledge Graph.
-
-A Streamlit dashboard provides an interactive interface for entering AI-generated responses, analyzing them, viewing the validation result, and maintaining a monitoring history.
